@@ -7,4 +7,4 @@ _<p align="center">需要学习的方面会在这里列出来</p>_
 3.了解到如何使用model/item中的json来调整武器的位置。其中的translation：[右,前,上],scale:[长(水平）,高（垂直）,厚],rotation说不准，慢慢转吧。
 
 ## __2024/5/28__ 
-1.了解如何使用CustomModelData自定义物品材质
+1.了解如何使用CustomModelData自定义物品材质。
