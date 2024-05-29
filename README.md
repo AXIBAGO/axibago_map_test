@@ -10,3 +10,7 @@ _<p align="center">需要学习的方面会在这里列出来</p>_
 1.了解如何使用CustomModelData自定义物品材质。  
 2.了解mc材质包和数据包的结构。  
 3.使用blockbench修改物品模型。
+
+## __2024/5/29__ 
+1.了解到blockbench的绘画功能。  
+2.了解了一些基础指令（tp say execute ）还有一些目标选择器。
