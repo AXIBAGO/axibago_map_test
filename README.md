@@ -73,7 +73,7 @@ _<p align="center">学习的过程以及感悟会在这里列出来</p>_
 4.终于找到vscode图标mc风格的，叫Datapack Icons
 
 ## __2024/6/23__（test-8)  
-1.做了一个饱和度显示数据包。  
+1.做了一个饱和度显示数据包hungerhud。  
 2.大致了解如何使用aj制作mob，但ai这块目前使用wandering_trade有一点点卡。  
 3.aj官方的discord有一个mobai可以试试。
 
